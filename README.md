@@ -18,7 +18,7 @@
 
 ## ✨ 功能
 
-- 📋 **50+ 精选提示词模板** — 覆盖开发、写作、分析、学习等场景
+- 📋 **18+ 精选提示词模板** — 覆盖开发、写作、分析、学习、效率等场景
 - 🖥️ **CLI 工具** — 终端内搜索、复制、使用提示词
 - 🏷️ **分类管理** — 按场景、模型、难度分类
 - 🔄 **持续更新** — 定期收录新模板
@@ -46,32 +46,34 @@ python cli.py view "code-review-strict"
 
 ## 📂 分类
 
-### 💻 编程开发
+### 💻 编程开发（5 个）
 - `code-review-strict` — 严格代码审查
 - `debug-assistant` — 调试助手
-- `refactor-suggest` — 重构建议
 - `architecture-design` — 架构设计
+- `api-design` — API 设计评审
+- `docker-compose` — Docker Compose 生成
 
-### ✍️ 写作创作
+### ✍️ 写作创作（3 个）
 - `technical-writer` — 技术文档写作
-- `content-rewriter` — 内容改写
 - `ai-taste-enhancer` — 提升 AI 输出品味
-- `story-outliner` — 故事大纲生成
+- `changelog` — Changelog 生成
 
-### 📊 数据分析
+### 📊 数据分析（2 个）
 - `sql-generator` — SQL 生成
 - `data-cleaning` — 数据清洗
-- `visualization-advisor` — 可视化建议
 
-### 🎓 学习研究
+### 🎓 学习研究（3 个）
 - `concept-explainer` — 概念解释
 - `paper-summarizer` — 论文总结
-- `study-plan` — 学习计划
+- `roadmap` — 学习路线规划
 
-### 🛠️ 效率工具
+### 🛠️ 效率工具（5 个）
 - `regex-helper` — 正则表达式生成
 - `bash-helper` — Shell 脚本助手
 - `config-generator` — 配置文件生成
+- `commit-message` — Git Commit Message
+- `standup-report` — 站会报告
+- `git-workflow` — Git 工作流设计
 
 ---
 
